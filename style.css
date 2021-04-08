@@ -1,0 +1,25 @@
+/* Add your styles here */
+#Titulo{
+  text-align: center;
+  outline-style: groove;
+}
+body{
+  background-color: antiquewhite;
+}
+.text-center{
+  text-align: center;
+}
+h1, h2, p, ul {
+  font-family: "Times New Roman", Times, serif;
+}
+img{
+  margin:15px;
+  width: 96%;
+  height: auto;
+}
+ul{
+  font-size: large;
+}
+h3{
+  color:antiquewhite;
+}
